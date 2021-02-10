@@ -14,14 +14,17 @@ public class Testqn1 {
 			if(a[i]<18)
 			{
 				count1++;
-				System.out.println("number ofChildren: "+count1);
+				
 			}
-				else
+			else
 			count2++;
-			System.out.println("number of adults: "+count2);
 			
-}	
-	}		
+			
+}
+		System.out.println("number ofChildren: "+count1);
+		System.out.println("number of adults: "+count2);
+		
+}		
 }	
 	
 
