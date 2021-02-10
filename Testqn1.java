@@ -21,7 +21,7 @@ public class Testqn1 {
 			
 			
 }
-		System.out.println("number ofChildren: "+count1);
+		System.out.println("number of Children: "+count1);
 		System.out.println("number of adults: "+count2);
 		
 }		
